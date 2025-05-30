@@ -49,7 +49,7 @@ Saat ini, kami **tidak menerima kontributor dari luar organisasi**.
 Berikut ini adalah pedoman kerja dan alur standar kolaborasi tim developer internal kami:
 
 - **Branching Strategy:**  
-  - `main`: branch utama yang selalu dalam kondisi stabil dan siap produksi  
+  - `master`: branch utama yang selalu dalam kondisi stabil dan siap produksi  
   - `dev`: branch untuk pengembangan umum  
   - `feature/{nama-fitur}`: branch untuk fitur baru  
   - `bugfix/{nama-bug}`: branch untuk perbaikan bug
