@@ -32,6 +32,7 @@ Menjadi perusahaan transportasi yang handal serta dapat memberikan nilai tambah 
 
 Organisasi ini secara umum mengelompokkan repositori ke dalam kategori berikut:
 
+- `infrastructure/` – Kebutuhan dalam project atau untuk struktur yang ada (mis: traefik, docker, kong, RabbitMq).
 - `frontend/` – Proyek berbasis antarmuka pengguna (mis: web, Next.js, Vue).
 - `backend/` – API dan sistem backend (mis: Laravel, Express).
 - `mobile/` – Aplikasi mobile (mis: React Native, Flutter).
@@ -55,7 +56,7 @@ Berikut ini adalah pedoman kerja dan alur standar kolaborasi tim developer inter
   - `bugfix/{nama-bug}`: branch untuk perbaikan bug
 
 - **Code Review:**  
-  Setiap perubahan pada branch `dev` harus melalui _Pull Request_ dan direview minimal oleh 1 rekan tim sebelum digabungkan ke branch utama.
+  Setiap perubahan pada branch `dev` harus melalui _Pull Request_ dan direview oleh atasan sebelum digabungkan ke branch utama.
 
 - **Style Guide:**  
   Kami mengikuti gaya penulisan kode yang sesuai dengan standar framework masing-masing (PSR untuk PHP, ESLint untuk JavaScript, dll).
@@ -96,6 +97,11 @@ Silakan hubungi tim IT kami melalui email:
 - Staff IT Developer:  
   - [nc.ekohidayat@gmail.com](mailto:nc.ekohidayat@gmail.com)  
   - [chechaalfariz99@gmail.com](mailto:chechaalfariz99@gmail.com)
+  - [fauzianadrian150@gmail.com](mailto:fauzianadrian150@gmail.com)
+- Staff IT Support:  
+  - alfa
+  - dito
+  - aldi
 
 ---
 
